@@ -1,26 +1,5 @@
 [
   {
-    "name": "Joe Fortes Seafood & Chop House",
-    "address": "777 Thurlow St, Vancouver, BC",
-    "latitude": 49.2847,
-    "longitude": -123.1244,
-    "famousFood": "Oysters and Steak",
-    "phoneNumber": "(604) 669-1940",
-    "cuisineType": "Seafood",
-    "city": "Vancouver",
-    "province": "BC",
-    "postalCode": "V6E 3V5",
-    "website": "https://joefortes.ca",
-    "priceRange": "$$$$",
-    "rating": 4.5,
-    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    "galleryUrls": [
-      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1564758565387-245fd5a1ac4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-    ]
-  },
-  {
     "name": "Alo Restaurant",
     "address": "163 Spadina Ave, Toronto, ON",
     "latitude": 43.6488,
@@ -34,10 +13,30 @@
     "website": "https://alorestaurant.com",
     "priceRange": "$$$$",
     "rating": 4.7,
-    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "imageUrl": "https://alorestaurant.com/wp-content/uploads/2022/05/Alo-Interior-1.jpg",
     "galleryUrls": [
-      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      "https://alorestaurant.com/wp-content/uploads/2022/05/Alo-Dining-Room.jpg",
+      "https://alorestaurant.com/wp-content/uploads/2022/05/Alo-Dish-1.jpg"
+    ]
+  },
+  {
+    "name": "Joe Fortes Seafood & Chop House",
+    "address": "777 Thurlow St, Vancouver, BC",
+    "latitude": 49.2847,
+    "longitude": -123.1244,
+    "famousFood": "Oysters Rockefeller",
+    "phoneNumber": "(604) 669-1940",
+    "cuisineType": "Seafood",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V6E 3V5",
+    "website": "https://joefortes.ca",
+    "priceRange": "$$$$",
+    "rating": 4.5,
+    "imageUrl": "https://joefortes.ca/wp-content/uploads/2021/08/Joe-Fortes-Exterior.jpg",
+    "galleryUrls": [
+      "https://joefortes.ca/wp-content/uploads/2021/08/Rooftop-Patio.jpg",
+      "https://joefortes.ca/wp-content/uploads/2021/08/Oysters.jpg"
     ]
   },
   {
@@ -54,70 +53,150 @@
     "website": "https://restaurant-toque.com",
     "priceRange": "$$$$",
     "rating": 4.6,
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "imageUrl": "https://restaurant-toque.com/wp-content/uploads/2022/03/Toque-Interior-1.jpg",
     "galleryUrls": [
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1564758565387-245fd5a1ac4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      "https://restaurant-toque.com/wp-content/uploads/2022/03/Tasting-Menu.jpg",
+      "https://restaurant-toque.com/wp-content/uploads/2022/03/Wine-Cellar.jpg"
     ]
   },
   {
-    "name": "Pigeonhole",
-    "address": "306 17 Ave SW, Calgary, AB",
-    "latitude": 51.0419,
-    "longitude": -114.0806,
-    "famousFood": "Small Plates",
-    "phoneNumber": "(403) 452-4694",
-    "cuisineType": "Contemporary",
-    "city": "Calgary",
-    "province": "AB",
-    "postalCode": "T2S 0A8",
-    "website": "https://pigeonholeyyc.ca",
-    "priceRange": "$$$",
-    "rating": 4.4,
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    "galleryUrls": [
-      "https://images.unsplash.com/photo-1564758565387-245fd5a1ac4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    ]
-  },
-  {
-    "name": "Raymonds",
-    "address": "95 Water St, St. John's, NL",
-    "latitude": 47.5629,
-    "longitude": -52.7108,
-    "famousFood": "Newfoundland Cod",
-    "phoneNumber": "(709) 579-5800",
-    "cuisineType": "New Canadian",
-    "city": "St. John's",
-    "province": "NL",
-    "postalCode": "A1C 1A8",
-    "website": "https://raymondsrestaurant.com",
-    "priceRange": "$$$$",
-    "rating": 4.7,
-    "imageUrl": "https://images.unsplash.com/photo-1564758565387-245fd5a1ac4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    "galleryUrls": [
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    ]
-  },
-  {
-    "name": "Buca",
-    "address": "604 King St W, Toronto, ON",
-    "latitude": 43.6436,
-    "longitude": -79.4062,
-    "famousFood": "Handmade Pasta",
-    "phoneNumber": "(416) 865-1600",
-    "cuisineType": "Italian",
+    "name": "Canoe",
+    "address": "66 Wellington St W, Toronto, ON",
+    "latitude": 43.6465,
+    "longitude": -79.3809,
+    "famousFood": "Bison Ribeye",
+    "phoneNumber": "(416) 364-0054",
+    "cuisineType": "Canadian",
     "city": "Toronto",
     "province": "ON",
-    "postalCode": "M5V 1M6",
-    "website": "https://buca.ca",
+    "postalCode": "M5K 1H6",
+    "website": "https://canoerestaurant.com",
+    "priceRange": "$$$$",
+    "rating": 4.5,
+    "imageUrl": "https://canoerestaurant.com/wp-content/uploads/2022/04/Canoe-View.jpg",
+    "galleryUrls": [
+      "https://canoerestaurant.com/wp-content/uploads/2022/04/Canoe-Dish-1.jpg",
+      "https://canoerestaurant.com/wp-content/uploads/2022/04/Canoe-Bar.jpg"
+    ]
+  },
+  {
+    "name": "Hawksworth Restaurant",
+    "address": "801 Georgia St W, Vancouver, BC",
+    "latitude": 49.2839,
+    "longitude": -123.1203,
+    "famousFood": "Dungeness Crab",
+    "phoneNumber": "(604) 673-7000",
+    "cuisineType": "Contemporary",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V6C 1P7",
+    "website": "https://hawksworthrestaurant.com",
+    "priceRange": "$$$$",
+    "rating": 4.6,
+    "imageUrl": "https://hawksworthrestaurant.com/wp-content/uploads/2022/05/Hawksworth-Dining-Room.jpg",
+    "galleryUrls": [
+      "https://hawksworthrestaurant.com/wp-content/uploads/2022/05/Seasonal-Tasting-Menu.jpg",
+      "https://hawksworthrestaurant.com/wp-content/uploads/2022/05/Cocktails.jpg"
+    ]
+  },
+  {
+    "name": "St. Lawrence",
+    "address": "269 Powell St, Vancouver, BC",
+    "latitude": 49.2812,
+    "longitude": -123.1047,
+    "famousFood": "Tourtière",
+    "phoneNumber": "(604) 620-3800",
+    "cuisineType": "Quebecois",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V6A 1G3",
+    "website": "https://stlawrencerestaurant.com",
+    "priceRange": "$$$",
+    "rating": 4.6,
+    "imageUrl": "https://stlawrencerestaurant.com/wp-content/uploads/2022/04/St-Lawrence-Interior.jpg",
+    "galleryUrls": [
+      "https://stlawrencerestaurant.com/wp-content/uploads/2022/04/Classic-Dishes.jpg",
+      "https://stlawrencerestaurant.com/wp-content/uploads/2022/04/Wine-List.jpg"
+    ]
+  },
+  {
+    "name": "Bar Raval",
+    "address": "505 College St, Toronto, ON",
+    "latitude": 43.6562,
+    "longitude": -79.4093,
+    "famousFood": "Pintxos",
+    "phoneNumber": "(416) 960-9111",
+    "cuisineType": "Spanish",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M6G 1A5",
+    "website": "https://thisisbarraval.com",
     "priceRange": "$$$",
     "rating": 4.5,
-    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "imageUrl": "https://thisisbarraval.com/wp-content/uploads/2022/03/Bar-Raval-Interior.jpg",
     "galleryUrls": [
-      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      "https://images.unsplash.com/photo-1564758565387-245fd5a1ac4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      "https://thisisbarraval.com/wp-content/uploads/2022/03/Pintxos-Selection.jpg",
+      "https://thisisbarraval.com/wp-content/uploads/2022/03/Cocktail-Menu.jpg"
+    ]
+  },
+  {
+    "name": "Le Mousso",
+    "address": "1023 Ontario St E, Montreal, QC",
+    "latitude": 45.5249,
+    "longitude": -73.5581,
+    "famousFood": "Tasting Menu",
+    "phoneNumber": "(514) 287-3100",
+    "cuisineType": "Contemporary",
+    "city": "Montreal",
+    "province": "QC",
+    "postalCode": "H2L 1P8",
+    "website": "https://lemousso.com",
+    "priceRange": "$$$$",
+    "rating": 4.7,
+    "imageUrl": "https://lemousso.com/wp-content/uploads/2022/04/Mousso-Interior.jpg",
+    "galleryUrls": [
+      "https://lemousso.com/wp-content/uploads/2022/04/Seasonal-Ingredients.jpg",
+      "https://lemousso.com/wp-content/uploads/2022/04/Wine-Pairing.jpg"
+    ]
+  },
+  {
+    "name": "Edna",
+    "address": "2053 Gottingen St, Halifax, NS",
+    "latitude": 44.6589,
+    "longitude": -63.6007,
+    "famousFood": "Scallops",
+    "phoneNumber": "(902) 405-4552",
+    "cuisineType": "East Coast",
+    "city": "Halifax",
+    "province": "NS",
+    "postalCode": "B3K 3B2",
+    "website": "https://ednahalifax.ca",
+    "priceRange": "$$$",
+    "rating": 4.4,
+    "imageUrl": "https://ednahalifax.ca/wp-content/uploads/2022/05/Edna-Exterior.jpg",
+    "galleryUrls": [
+      "https://ednahalifax.ca/wp-content/uploads/2022/05/Local-Seafood.jpg",
+      "https://ednahalifax.ca/wp-content/uploads/2022/05/Cocktail-Program.jpg"
+    ]
+  },
+  {
+    "name": "RGE RD",
+    "address": "10643 123 St NW, Edmonton, AB",
+    "latitude": 53.5439,
+    "longitude": -113.5163,
+    "famousFood": "Bison Tartare",
+    "phoneNumber": "(780) 447-4577",
+    "cuisineType": "Canadian",
+    "city": "Edmonton",
+    "province": "AB",
+    "postalCode": "T5N 1P2",
+    "website": "https://rgerd.ca",
+    "priceRange": "$$$",
+    "rating": 4.5,
+    "imageUrl": "https://rgerd.ca/wp-content/uploads/2022/04/RGE-RD-Interior.jpg",
+    "galleryUrls": [
+      "https://rgerd.ca/wp-content/uploads/2022/04/Farm-to-Table.jpg",
+      "https://rgerd.ca/wp-content/uploads/2022/04/Craft-Cocktails.jpg"
     ]
   }
 ]
