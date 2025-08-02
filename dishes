@@ -1,0 +1,292 @@
+[
+  {
+    "restaurantName": "Alo Restaurant",
+    "menu": [
+      {
+        "dishId": 1,
+        "name": "Tasting Menu",
+        "description": "Chef's selection of 7 courses showcasing seasonal ingredients",
+        "price": 145.00,
+        "category": "Signature",
+        "imageUrl": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg"
+      },
+      {
+        "dishId": 2,
+        "name": "Foie Gras Terrine",
+        "description": "With brioche, pear chutney and Sauternes gel",
+        "price": 32.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg"
+      },
+      {
+        "dishId": 3,
+        "name": "Duck Confit",
+        "description": "With roasted root vegetables and red wine reduction",
+        "price": 42.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Joe Fortes Seafood & Chop House",
+    "menu": [
+      {
+        "dishId": 4,
+        "name": "Oysters Rockefeller",
+        "description": "Baked with spinach, bacon and hollandaise sauce",
+        "price": 28.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/2132087/pexels-photo-2132087.jpeg"
+      },
+      {
+        "dishId": 5,
+        "name": "Lobster Thermidor",
+        "description": "Classic preparation with brandy, mustard and cheese",
+        "price": 65.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/1148082/pexels-photo-1148082.jpeg"
+      },
+      {
+        "dishId": 6,
+        "name": "Seafood Tower",
+        "description": "Selection of fresh oysters, clams, shrimp, crab and lobster",
+        "price": 120.00,
+        "category": "Signature",
+        "imageUrl": "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Toqué!",
+    "menu": [
+      {
+        "dishId": 7,
+        "name": "Quebec Foie Gras",
+        "description": "Pan-seared with seasonal accompaniments",
+        "price": 38.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg"
+      },
+      {
+        "dishId": 8,
+        "name": "Duck Magret",
+        "description": "Local duck breast with wild berry sauce",
+        "price": 45.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "dishId": 9,
+        "name": "Tasting Menu",
+        "description": "7-course journey through Quebec's terroir",
+        "price": 150.00,
+        "category": "Signature",
+        "imageUrl": "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Canoe",
+    "menu": [
+      {
+        "dishId": 10,
+        "name": "Bison Ribeye",
+        "description": "Grass-fed bison with wild mushroom ragout",
+        "price": 52.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/1251208/pexels-photo-1251208.jpeg"
+      },
+      {
+        "dishId": 11,
+        "name": "Arctic Char",
+        "description": "Pan-seared with maple glaze and seasonal vegetables",
+        "price": 44.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/2741458/pexels-photo-2741458.jpeg"
+      },
+      {
+        "dishId": 12,
+        "name": "Canadian Cheese Selection",
+        "description": "Artisanal cheeses from across Canada",
+        "price": 28.00,
+        "category": "Dessert",
+        "imageUrl": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Hawksworth Restaurant",
+    "menu": [
+      {
+        "dishId": 13,
+        "name": "Dungeness Crab",
+        "description": "With avocado, grapefruit and lime dressing",
+        "price": 36.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"
+      },
+      {
+        "dishId": 14,
+        "name": "Sablefish",
+        "description": "Marinated in miso with shiitake mushrooms",
+        "price": 48.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg"
+      },
+      {
+        "dishId": 15,
+        "name": "Tasting Menu",
+        "description": "Chef's selection of signature dishes",
+        "price": 155.00,
+        "category": "Signature",
+        "imageUrl": "https://images.pexels.com/photos/2074130/pexels-photo-2074130.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "St. Lawrence",
+    "menu": [
+      {
+        "dishId": 16,
+        "name": "Tourtière",
+        "description": "Traditional Quebecois meat pie",
+        "price": 26.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "dishId": 17,
+        "name": "Poutine",
+        "description": "With cheese curds and foie gras gravy",
+        "price": 18.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"
+      },
+      {
+        "dishId": 18,
+        "name": "Maple Glazed Salmon",
+        "description": "With wild rice and seasonal vegetables",
+        "price": 38.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/2067405/pexels-photo-2067405.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Bar Raval",
+    "menu": [
+      {
+        "dishId": 19,
+        "name": "Pintxos Selection",
+        "description": "Assortment of Spanish small plates",
+        "price": 32.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg"
+      },
+      {
+        "dishId": 20,
+        "name": "Paella",
+        "description": "Traditional Spanish rice dish with seafood",
+        "price": 42.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg"
+      },
+      {
+        "dishId": 21,
+        "name": "Churros",
+        "description": "With chocolate dipping sauce",
+        "price": 12.00,
+        "category": "Dessert",
+        "imageUrl": "https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Le Mousso",
+    "menu": [
+      {
+        "dishId": 22,
+        "name": "Tasting Menu",
+        "description": "Innovative 8-course menu",
+        "price": 160.00,
+        "category": "Signature",
+        "imageUrl": "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg"
+      },
+      {
+        "dishId": 23,
+        "name": "Venison",
+        "description": "With juniper berries and root vegetables",
+        "price": 48.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg"
+      },
+      {
+        "dishId": 24,
+        "name": "Foie Gras Parfait",
+        "description": "With brioche and fruit compote",
+        "price": 34.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Edna",
+    "menu": [
+      {
+        "dishId": 25,
+        "name": "Scallops",
+        "description": "Pan-seared with cauliflower purée",
+        "price": 36.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/1148082/pexels-photo-1148082.jpeg"
+      },
+      {
+        "dishId": 26,
+        "name": "Lobster Roll",
+        "description": "Classic East Coast style with buttered bun",
+        "price": 28.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"
+      },
+      {
+        "dishId": 27,
+        "name": "Blueberry Grunt",
+        "description": "Traditional Nova Scotia dessert",
+        "price": 14.00,
+        "category": "Dessert",
+        "imageUrl": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg"
+      }
+    ]
+  },
+  {
+    "restaurantName": "RGE RD",
+    "menu": [
+      {
+        "dishId": 28,
+        "name": "Bison Tartare",
+        "description": "With quail egg and house-made chips",
+        "price": 22.00,
+        "category": "Appetizer",
+        "imageUrl": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"
+      },
+      {
+        "dishId": 29,
+        "name": "Alberta Beef Ribeye",
+        "description": "Grass-fed with wild mushroom sauce",
+        "price": 52.00,
+        "category": "Main Course",
+        "imageUrl": "https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg"
+      },
+      {
+        "dishId": 30,
+        "name": "Root Vegetable Gratin",
+        "description": "Seasonal vegetables with cheese crust",
+        "price": 18.00,
+        "category": "Side Dish",
+        "imageUrl": "https://images.pexels.com/photos/2741458/pexels-photo-2741458.jpeg"
+      }
+    ]
+  }
+]
